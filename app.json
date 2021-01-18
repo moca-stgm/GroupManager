@@ -9,8 +9,12 @@
     "manager",
     "3"
   ],
-  "repository": "hhttps://github.com/xditya/GroupManager",
+  
   "env": {
+    "repository":{
+    "description": "https://github.com/moca-stgm/GroupManager",
+    "value":"https://github.com/moca-stgm/GroupManager"
+    }
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
       "value": "ANYTHING"
